@@ -1,0 +1,9 @@
+Ask user if he is ready to take quiz
+prepare list box for options of questions
+prepare correct answer list box
+prepare counting right and wrong answers
+
+Ways to do:
+
+Alert Box to ask user
+append questions in list
